@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ark is begun to be opened, (the waters being somewhat abated) which with some papers and passages given forth by the Lord's servants I am thus to publish ... / John Pennyman.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54252</idno>
+            <idno type="STC">Wing P1403</idno>
+            <idno type="STC">ESTC R33342</idno>
+            <idno type="EEBO-CITATION">13277323</idno>
+            <idno type="OCLC">ocm 13277323</idno>
+            <idno type="VID">98729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98729)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ark is begun to be opened, (the waters being somewhat abated) which with some papers and passages given forth by the Lord's servants I am thus to publish ... / John Pennyman.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+                  <author>Pennyman, Mary, 1630-1701.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Part of the text by Mary Pennyman.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98729:1" rendition="simple:additions"/>
+            <pb facs="tcp:98729:1" rendition="simple:additions"/>
+            <p>THE ARK Is begun to be Opened, (The Waters being ſomewhat abated) Which with ſome Papers and Paſſages, given forth by the <hi>Lord's</hi> Servants, I am thus to Publiſh, Who am made a Living Witneſs of the Spirits teach<g ref="char:EOLhyphen"/>ing; which Worſhip is ſo <hi>Pure,</hi> that I may not en<g ref="char:EOLhyphen"/>deavour to gather any Proſelites thereto; yet am freely given up to ſerve all, or any, <hi>that truly fear the LORD.</hi>
+            </p>
+            <p>John Pennyman.</p>
+            <p>
+               <hi>Behold, they of the Houſe of Iſrael ſay, The Viſion that he ſeeth, is for many dayes to come, and he propheſieth of the times that are far off: Therefore thus ſaith the LORD GOD, There ſhall none of my Words be prolonged any more; but the Word which I have ſpoken ſhall be done, ſaith the LORD GOD.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year accounted 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prophecy">
+            <div type="preamble">
+               <pb facs="tcp:98729:2" rendition="simple:additions"/>
+               <pb n="3" facs="tcp:98729:2"/>
+               <p>Several being deſirous that I ſhould Print ſomething con<g ref="char:EOLhyphen"/>cerning my late Marriage, (which was publiſhed the 24th of the Month call'd <hi>October, 1671.</hi>) Which day, though 'twas a day of ſcorn and reproach, yet I do ſay, Many ſhall bleſs the Lord becauſe thereof: So that it is now with mee, for their ſakes, and for the ſake of all the honeſt-hearted, to write a ſhort Account of ſome Paſſages concerning it.</p>
+               <p>THE LORD having required mee to take one call'd <hi>Mary Boreman</hi> to be my Wife, it was with me to have it made publick, and to that end I deſired a Meeting-place of the People called <hi>Quakers;</hi> and the rather I did deſire it, becauſe I had an intereſt therein: But they not admitting mee that liberty, I got leave for the uſe of <hi>Merchant-Taylors-Hall;</hi> which being granted, I then was to invite ſeveral ſorts of Profeſſors, and alſo was to provide Food for about 250 Perſons, (ſuppoſing about that number might be invited); The Food was to be all of one ſort, and ſo was the Drink, <hi>[He that can read, let him underſtand]:</hi> but what with the violent oppoſition of ſome of the People called <hi>Quakers,</hi> intruding themſelves, with ſeveral of the rude People, cauſed ſuch a diſturbance, that I had neither liber<g ref="char:EOLhyphen"/>ty to declare what I had then to publiſh, but alſo hindered my treating thoſe [ſo invited] with that civility and reſpect I intended. Yet what I declared there, as a Meſſage from the LORD, here follows.</p>
+            </div>
+            <div type="text_of_prophecy">
+               <p>
+                  <pb n="4" facs="tcp:98729:3"/>
+OH People! my Bowels yearn, my Bowels yearn to<g ref="char:EOLhyphen"/>wards you, whoſe deſires in any meaſure are after the LORD: O that you would now <hi>(I ſay, that you would now)</hi> return with all your hearts unto Him, and obey the Voice of His Power in you; then ſhould you be made able to ſtand, and endure the fiery Tryal which is come and coming. Oh! the Day haſtens wherein all Profeſſion, that is not grounded in the Life and Power of the Lord Jeſus Chriſt (whatever the mew of it be) will be ſo ſhaken, that an utter <hi>(I ſay, an utter)</hi> blaſting and withering ſhall come upon it; and for that cauſe the LORD doth, and .will yet ſuffer great Tryals <hi>(yea, I ſay, great Tryals)</hi> to come, both upon the Profeſſors and Poſſeſſors of his Name; that ſo his Children [the Poſ<g ref="char:EOLhyphen"/>ſeſſors] may be manifeſted unto all, and diſcerned from all that are but Profeſſors, though never ſo fair and ſeemingly covered: for all Coverings, but what is of the Power and Spirit it ſelf, ſhall be too narrow; and all that are not cover<g ref="char:EOLhyphen"/>ed with the Spirit and Power of <hi>Emmanuel</hi> their ſhame and nakedneſs ſhall appear more and more.</p>
+               <p>This is the Teſtimony which the Spirit and Word of Truth giveth; therefore he that hath an ear to hear, let him hear, before the day of his Viſitation be wholly paſt, and the things belonging to his Peace be hid from his eyes: for yet a little while, and the voice ſhall be, <hi>He that is filthy; let him be filthy ſtill;</hi> for the Spirit of the Lord ſhall not alway ſtrive with fleſh, but his Plagues and Indignation ſhall be poured out up<g ref="char:EOLhyphen"/>on ſuch as will not be gathered in the day of his Patience, Long-forbearance, and Free-love; and he or ſhe that loveth Father, Mother, Husband, Wife, Children, Houſe or Land, Li<g ref="char:EOLhyphen"/>berty, Honour, or any thing more than the Life of the <hi>Lamb,</hi> ſhall be counted not worthy of Him, and plainly manifeſted ſo to be<g ref="char:punc">▪</g> Reade this who can; and he that can receive it, let him: for the time draweth nigh <hi>(yea, I ſay, the time it come)</hi> that theſe Sayings muſt be fulfilled.</p>
+               <p>
+                  <pb n="5" facs="tcp:98729:3"/>
+THE <hi>Indignation,</hi> the <hi>Wrath</hi> of the LAMB is come, Le<hi rend="sup">t</hi> all Fleſh tremble before HIM, yea let all faces gather paleneſs who are joyn'd to Iniquity either of Fleſh or Spirit; for the Day of their Torment, yea, I ſay, the Day of their Miſery, Vexation and Torment is come and coming, yet more to be revealed and made manifeſt: Wherefore I ſay a<g ref="char:EOLhyphen"/>gain, and it is the <hi>Word</hi> the LORD, That all Fleſh is but as graſs before Him, who is the MIGHTY, DREADFUL, TERRIBLE ONE; Yea, who is, and will be more mani<g ref="char:EOLhyphen"/>feſted to be a Conſuming-Fire to all the Workers of Iniqui<g ref="char:EOLhyphen"/>ty: My Charge is, to Warn you, yea to Alarm you, that whilſt it is called to Day, you harden not your hearts, but that you would repent, and turn unto the LORD, if by any means you may find a place of Repentance, before the Night come (which is haſtning on apace) wherein none can work: <hi>The Mouth of the LORD) hath ſpoken it.</hi>
+               </p>
+               <p>But as for you whoſe Hearts are chaſte, and intirely given up to ſerve the LORD, I am to proclaim, that the Year of <hi>Jubile</hi> is come, yea, the Time of your Deliverance, yea, I ſay, the Set-time of your Deliverance is come and coming, yet more to be reveal'd and made manifeſt. <hi>Glory</hi> and <hi>Praiſe, Hallelujah</hi> and <hi>Thanks</hi> be given to our GOD, who Liveth and Reigneth in all His Saints and ſanctified Ones, both as KING, PRIEST and PROPHET. <hi>Glory</hi> and <hi>Praiſe</hi> in the <hi>higheſt</hi> be given to HIM, from this time forth and for ever more. Amen, <hi>Hallelujah.</hi>
+               </p>
+               <closer>
+                  <signed>Subſcribed and Publiſhed by one of the leaſt of the Thouſands of <hi>Iſrael,</hi> yet one of that Number whom the <hi>LORD</hi> hath [of His infinite Mercy] choſen to follow Him fully, and hath accounted Mee worthy to ſtand in the Gap, and to be a Living-Witneſs againſt All <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>righteouſneſs, yea I ſay, againſt All manner of <g ref="char:V">Ʋ</g>nrighteouſneſs. O let my Soul for ever Praiſe and Magnifie His Name, who Alone is Worthy, ſaith His Servant.
+<hi>J. P.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="paper">
+            <pb n="6" facs="tcp:98729:4"/>
+            <div type="preamble">
+               <p>After I had delivered the aforeſaid Meſſage, it was with mee to Read this following Paper; which my Wife had writ above a year agoe, concerning her leaving the City.</p>
+            </div>
+            <div type="text_of_paper">
+               <opener>
+                  <salute>Friends and People,</salute>
+               </opener>
+               <p>IT's in my heart to give ſatisfaction to all that have known mee, how it is with mee as to the leaving this City. The LORD having been with mee miraculouſly theſe eight years (ſince the death of my dear Husband) and carried mee through many deep ſorrows, in which time Hee brought mee near unto Himſelf, for which my Soul doth truly bleſs His moſt holy Name; and by His Heavenly Power Hee hath alſo kept mee from the very temptation of being greedy of Gain; I have neither wronged nor defrauded any Creature, either in Buying or Selling, that I know of, but have ſought their good even as my own; and now, I ſay, the ſame GOD that hath thus preſerved mee in this place, hath put it into my heart to depart from hence; the cauſe thereof is not yet made known unto mee, but feeling His good Spirit leading mee forth, (not knowing what my Service may be for Him elſe where) I dare not to ſay, as <hi>Pharaoh</hi> did, <hi>Who is the LORD that I ſhould obey Him?</hi> Neither am I to reaſon, or conſult with fleſh and blood about it, becauſe I know Him to be a GOD of Power, by whom all Actions are weighed: So let none blame mee, as to my Children, for as the care of a tender Mother hath been in mee for them, ſo it remains, and muſt be ſo to the end of my dayes, being aſſured that their Father's GOD will be with them, and His Bleſſing ſhall reſt upon us for ever more, even His Bleſſing who hath choſen mee to follow Him fully; and I may not thus requite Him who hath bleſſed mee with a great Trade and plenty (as to the outward) even what can be deſired, as to make it the cauſe of my diſobedience to Him, and ſo to have my heart ſet upon if, as not willingly to leave it when Hee calls from it.</p>
+               <p>Oh my Father! Thy Preſence with mee is the onely thing deſired by mee; having that, it's enough; and, as Thou haſt given, even ſo take away as Thou pleaſeſt. A certain Faith is in mee, that not one Hair of my Head ſhall periſh without His Providence, Who ruleth all Things ac<g ref="char:EOLhyphen"/>cording to the Counſel of His own Will; So that neither I, nor mine ſhall ever want.</p>
+               <p>
+                  <pb n="7" facs="tcp:98729:4"/>
+Then let none take thought, for it never added any thing to mee; but let all your minds be turned inward, and in the Dread and Fear of the LORD look not out. It's but a little time, and wee are all paſſing out of this World; Oh! let all watch, that Their dayes be not ended before Their Work be finiſhed for which They came into the World. I know it was not to be heaping up periſhing Riches all our dayes; but the PEARL of greateſt Price being found, they that know the Excelle<g ref="char:EOLhyphen"/>ncy and Vertue of it, can willingly ſell all to purchaſe it: for all <hi>outward glory,</hi> I am to declare, ſhall more and more be ſtain'd, and the <hi>Glory within</hi> more fully reveal'd to all that love the LORD in ſincerity.</p>
+               <p>The Treaſures of this World let them take that ſeek after them, for indeed my Kingdom is not of it, neither is my delight in any thing but to feel the LORD near unto mee, to guide mee in all my wayes, whoſe Voice, His own Sheep do know, and cannot follow any other; all pe<g ref="char:EOLhyphen"/>riſhing things are under Their feet; the Myſtery of <hi>Everlaſting Life</hi> be<g ref="char:EOLhyphen"/>ing reveal'd, is more to them than all.</p>
+               <p>This let all know, that I leave not my Trade in my own Will, nor in a Temptation, nor in an Imagination, nor in ſlighting the LORD'S Mercy to mee therein, neither Their love, into whoſe hearts the LORD put it to trade with mee; but in <hi>pure obedience</hi> to the Leadings of His own Spirit of Life, made manifeſt in my mortal Body: and good have I found it for mee to be kept in the <hi>Croſs,</hi> which is now freely taken up by mee, becauſe Hee hath of His infinite Love and Mercy joyn'd my Soul unto HIMSELF in an <hi>everlaſting Covenant,</hi> that no mortal Thing can break; Bleſs the LORD all you that know the ſame.</p>
+               <p>And this is in my heart to deſire, That the LORD may ſhew mercy to all that have ſhewed mercy to mee; and where any hard-heartedneſs hath been, it may be forgiven.</p>
+               <p>And ſo in the <hi>love,</hi> and <hi>good-will,</hi> and <hi>peace</hi> of my Heavenly Father, and in His <hi>meek, pure,</hi> and <hi>quiet Spirit</hi> I am to leave you, and could, if it were required of mee, even lay down my Life for the Righteous Seed's ſake in all, that It might Reign and Rule, which can onely glorifie the LORD.</p>
+               <closer>
+                  <signed>M. B.</signed>
+                  <dateline>
+                     <date>24th of the month cal<g ref="char:EOLhyphen"/>led <hi>September, 70.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <epigraph>
+               <bibl>
+                  <hi>Ezek.</hi> 12.2, 3.</bibl>
+            </epigraph>
+         </div>
+         <div type="paper">
+            <div type="preamble">
+               <pb n="8" facs="tcp:98729:5"/>
+               <p>
+                  <hi>After I had read the foregoing Paper, ſome of the People called</hi> Quakers, (for all call'd by that name I may not ſpeak a<g ref="char:EOLhyphen"/>gainſt, there being a Remnant amongſt them whoſe hearts are upright to the LORD, and in whom He will yet be glo<g ref="char:EOLhyphen"/>rified) <hi>who though they had interrupted mee before, yet now be<g ref="char:EOLhyphen"/>gan to be ſo violent, in their rage and oppoſition, that I could not proceed ſo as to be underſtood by the People, which cauſed much crowding; ſo that I was deſired to withdraw, which ac<g ref="char:EOLhyphen"/>cordingly I did, deſiring all to depart that were not thither in<g ref="char:EOLhyphen"/>vited. Since which time I have been ſilent in Publiſhing any thing that in the leaſt might vindicate our Reputations from the many Lies and Aſpertions caſt upon us concerning that Matter; neither is it my deſire at preſent ſo much as to mind or meddle with them; but as to that love which wee then had, and ſtill have, to</hi> Them, <hi>and unto</hi> all People, <hi>I cannot but here men<g ref="char:EOLhyphen"/>tion, and am willing to Print this following (it being ſuteable to the preſent Occaſion) which I writ to one above a Year agoe.</hi>
+               </p>
+            </div>
+            <div type="text_of_paper">
+               <opener>
+                  <salute>
+                     <hi>Dear Friend,</hi> &amp;c.</salute>
+               </opener>
+               <p>THE Word of the LORD hath not been, nor ſhall be publiſhed in vain, <hi>viz. [That many that have been firſt ſhall be laſt, and many that are laſt ſhall be firſt]:</hi> At which many are offended; yea, I know it's that, and that chiefly, at which many, call'd my Friends, are ſo much offended with mee: but bleſſed are they that are not offended in Him, whoſe Servant I am, and whoſe Will I have done, and Who hath rewarded me a thouſand, yea, I can truly ſay, a thou<g ref="char:EOLhyphen"/>ſand fold, Bleſſed and Praiſed be, yea, let all the upright in heart bleſs and praiſe His Holy Name, from this time forth, and for evermore. <hi>Hallelujah.</hi>
+               </p>
+               <p>O go not forth, but Keep ſtill and low, and wait in the ſtil<g ref="char:EOLhyphen"/>neſs,
+<pb n="9" facs="tcp:98729:5"/>till thou beeſt endowed with Power from on High, and enabled to come forth in the Authority of the Moſt High, to level the Mountains that ſtand in the way of our ZERUB-BABEL from building this latter Houſe, which Glory ſhall far tranſcend the Glory of the former; O! haſten, haſten, tar<g ref="char:EOLhyphen"/>ry not, my BELOVED calls, the <hi>Marriage-Supper</hi> is pre<g ref="char:EOLhyphen"/>pared, and His Table well-furniſhed, and many are invited; but excuſes are ſo many, that few are come: but my LORD will have His Table fill'd, and to that end will ſend to invite the Blind and the Lame, yea, <hi>the Hedges</hi> and <hi>High-wayes</hi> muſt be ſought out: Bleſſed are they, and they only, that are ac<g ref="char:EOLhyphen"/>counted worthy, for they ſhall eat the good of the <hi>Land,</hi> yea, they ſhall be filled; yea, I ſay, their Cup ſhall overflow, and of their Joy and Peace, Comfort and Conſolation, there ſhall be no end. <hi>Praiſes in the Higheſt be to our GOD for ever and for evermore.</hi>
+               </p>
+               <closer>
+                  <date>18th of the month call'd <hi>Auguſt,</hi> 70.</date>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="prophecy">
+            <div type="preamble">
+               <p>Theſe are ſome of the Meſſages which the LORD required mee to deli<g ref="char:EOLhyphen"/>ver at ſeveral of the Meetings of the People call'd <hi>Quakers,</hi> viz.
+<list>
+                     <item>I <hi>Am to proclaim the</hi> Day <hi>of the LORD, which is come to gather the Out<g ref="char:EOLhyphen"/>caſts, and to cleanſe the</hi> Camp <hi>of Evil-doers.</hi>
+                     </item>
+                     <item>The <hi>Life</hi> of the LAMB is riſen, whoſe <hi>Spouſe</hi> was, is, and muſt be chaſt unto Him, without ſpot, wrinkle, or any ſuch thing.</item>
+                     <item>The Fear, I ſay, the Fear of the LORD keeps the heart clean; for it's only the <hi>Clean</hi> and <hi>Pure</hi> in heart that can ſee GOD.</item>
+                     <item>Many, I ſay, many have been called, yet few have followed the LORD fully.</item>
+                     <item>The Wiſdom, I ſay, the Wiſdom of the J<g ref="char:V">Ʋ</g>ST is riſen, to confound the Wiſdom of the Wiſe.</item>
+                     <item>I am a Meſſenger of glad Tydings to all that are of an upright heart to the LORD — I ſay, I am not only a Meſſenger of glad-Tydings to all that are of an upright and ſingle heart to the LORD, but alſo am a Meſſenger of Woe and Miſery to all the workers of Iniquity.</item>
+                  </list>
+               </p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="preamble">
+               <pb n="10" facs="tcp:98729:6"/>
+               <p>
+                  <hi>Here follows ſome Lines (which the LORD having made mee a Living witneſs of, are a true and faithful Teſtimony) I am alſo to Publiſh.</hi>
+               </p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="text_of_prophecy">
+               <p>AS I was ſinking down into the <hi>Inviſible Life,</hi> it lay hard upon mee to warn every one, and that in the pure Fear of the LORD, to re<g ref="char:EOLhyphen"/>turn home with haſte unto Him, and to ceaſe from all men, who are but as the duſt of the Earth before His Mightys <hi>Power;</hi> which Power His Children dread to diſobey: What though thoſe People that have called themſelves by His Name, be come out, as it were, with Swords and Staves againſt Him, to betray the Innocent, and to raiſe up malitious, evil Reports againſt thoſe, who though in themſelves are feeble, yet have nothing in their eye but to follow His Leadings: Having many years agoe received the Truth in the love of it, and alſo in the Faith there<g ref="char:EOLhyphen"/>of, that it, and it only, was and is ſufficient to Lead and to Guide, and to preſerve out of all evil, all thoſe that diligently, and with a ſingle heart wait upon it; as we (the two Servants of the LOKD) are Wit<g ref="char:EOLhyphen"/>neſſes, whom Hee hath joyned together; having firſt wholly redeemed us out of the love and the delight of all viſible things, and ſhewed large<g ref="char:EOLhyphen"/>ly to us the emptineſs and vanity of them all; then did He make of us Twain, One; which when we came to Publiſh, and that with ſimple innocent hearts, before the LORD, and many Witneſſes, then did ma<g ref="char:EOLhyphen"/>ny caſt out their floods of Oppoſition and Reviling, as if there were no GOD to behold their Words and Actions; yet in patience and inno<g ref="char:EOLhyphen"/>cency were we kept, even as Lambs dumb before the Shearer, and open<g ref="char:EOLhyphen"/>ed not our mouths in the leaſt to revile again: Saying, <hi>O LORD, it's Thou that fully Juſtifies, it matters not who condemns;</hi> and wee know Thee to be our Shield, and our exceeding great Reward. So in Thy Holy Awe, and Fear, are we made to declare, againſt all that tyranni<g ref="char:EOLhyphen"/>cal Power that would be Lord over the Conſcience of the leaſt Babe that knows Thee to be their Father, and to ſay, do but Thou lead, and wee are willing to follow Thee through both good and evil Report; for Thou haſt of a truth indear'd our Souls unto Thee, and to nothing elſe beſides Thee: Glad ſhould wee be to bear all in ſilence, and not to med<g ref="char:EOLhyphen"/>dle
+<pb n="11" facs="tcp:98729:6"/>in any Caſe, if Thy Will were ſo: But the Righteous <hi>Seed</hi> is raiſed up, (that reſpects no People for their outward Forms of Religion, but bears witneſs againſt all unrighteouſneſs) in which to live are wee cal<g ref="char:EOLhyphen"/>led; and every Soul that pants after it, and cannot live without it, ſhall enjoy it: The <hi>Day</hi> is come that the pure in heart ſees the LORD, and parts with all for His Sake, following Him through great Tribula<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Oh! let the Souls of all that love Him, bow to none beſides Him: Even ſo let it be with all the upright in heart, ſaith His Servant</p>
+               <closer>
+                  <dateline>
+                     <date>23d of the month call'd <hi>November,</hi> 1671.</date>
+                  </dateline>
+                  <signed>Mary Pennyman</signed>
+               </closer>
+            </div>
+            <div type="text_of_prophecy">
+               <p>O Thou Righteous <hi>Everlaſting Seed!</hi> how haſt Thou been my Pre<g ref="char:EOLhyphen"/>ſerver from my Infancy! I cannot forget how Thou haſt follow<g ref="char:EOLhyphen"/>ed mee with Mercies, and multiplyed Thy Bleſſings upon mee. Now is Thy Reward felt for all Reproaches; Let none through unbelief de<g ref="char:EOLhyphen"/>part from Thee, for Thou art certainly the ſame this Day to all that truſt in Thee, and love nothing in compariſon of Thee. Draw all Thine after Thee, to reſt in peace with Thee, as my Soul doth at this Day.</p>
+               <closer>
+                  <signed>M. P.</signed>
+               </closer>
+            </div>
+            <div type="text_of_prophecy">
+               <list>
+                  <item>
+                     <hi>The Day of tryal is come that no Hypocrite can paſs through.</hi>
+                  </item>
+                  <item>
+                     <hi>The Fury of the ALMIGHTY is broken forth to trouble and torment all the double-hearted.</hi>
+                  </item>
+                  <item>
+                     <hi>The evil Spies are diſcovered, that ſeek to weaken the Faith of thoſe that follow the Leadings of the Pure Spirit of Life, becauſe it leads not according to their Imaginations.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſubtilty and wiſdom of Man is rejected by the LORD, confuſion and darkneſs is come upon it.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div type="prophecy">
+            <pb n="12" facs="tcp:98729:7" rendition="simple:additions"/>
+            <div type="preamble">
+               <p>Wee being call'd into the Countrey that day forty dayes after the Publication of our Marriage, at which time this following was writ.</p>
+            </div>
+            <div type="text_of_prophecy">
+               <p>NOW are forty dayes expired ſince the Waters began to ſwell, which ſwell'd ſo high, that they even over<g ref="char:EOLhyphen"/>flowed all Banks, ſo that I may ſay, as of old, <hi>That all fleſh dyed that moved upon the Earth:</hi> For as it was then (that none could be preſerv'd or kept alive to the LORD, but who were preſerv'd and kept alive in the ARK) ſo it is now <hi>SHee that can receive it, let him.</hi>
+               </p>
+               <p>And now the DOVE having brought mee Glad-Tydings, that the Waters are ſomewhat abated, The ARK is to be opened, and the <hi>Seed</hi> of the <hi>Righteous,</hi> that was preſerved and kept therein, muſt now go forth and repleniſh the Earth, which hath for a long time been void, and as it were without form, ſo that the <hi>Souls</hi> of the <hi>Upright</hi> have had little Pleaſure or Delight therein; but now is the <hi>Day</hi> of Glad-Tydings come, now is the <hi>Day</hi> of their true Joy witneſſed, now is the <hi>Day</hi> of their Singing at hand; now will the LORD alone be Exalted, yea, I ſay, Hee alone will be Exalted in this <hi>Day,</hi> wherein all the Wiſdom of the Wiſe is confounded (and will yet more abundantly) that know not Him <hi>(or that meaſure of Himſelf which Hee hath given to every One)</hi> to be their Guide and Leader: Wherefore, be awakened all ye Sons and Daughters of Men (of what Profeſſion or Perſwaſion of Religion ſoever you are of) for this is a Viſitation from the LORD unto you; <hi>happy are you that can, and that do receive it;</hi> Yea, it is ſuch a Viſitation of His Love unto you, that I am to declare, and that in His Name and Authority, That your Forms of Religion, and
+<pb n="13" facs="tcp:98729:7"/>outward Worſhip (ſet up) is not at all <hi>[this day]</hi> acceptable to Him; ſo that every one that love your own Souls, and deſire to ſerve the LORD GOD only, muſt haſten out from amongſt them, and return to Him, and wait upon Him a<g ref="char:EOLhyphen"/>lone, that ſo you may not dare to Sacrifice or Worſhip Him, but as you witneſs Him to be your Guide and Leader: For as it was of old <hi>(that all Sacrifices and Worſhips that were not offered and performed by His requiring, were abomination to Him)</hi> ſo it is now: Hee that hath an ear to hear, let him hear; yea let him hear what the Spirit ſaith, for the Spirit ſpeaketh ex<g ref="char:EOLhyphen"/>preſly in this our Day, <hi>That the Children of the LORD ſhall be taught of the LORD:</hi> Wherefore come away you Sons and Daughters of the MOST HIGH, you that have long waited for this <hi>Day,</hi> wherein the SEED muſt be ſet at liberty from all Bonds, yea, I ſay, from all manner of Bonds: So that this is the <hi>Meſſage</hi> I am to declare to you at this time, That you ſet up no more Teachers without you, but that you hearken and obey the Teachings of the LORD GOD with<g ref="char:EOLhyphen"/>in you; for no longer will Hee be mocked: <hi>but ſuch as you ſow, ſuch muſt you reap;</hi> and if they be your Gods, then hear<g ref="char:EOLhyphen"/>ken and follow them; but if the LORD be your GOD, then hear<g ref="char:EOLhyphen"/>ken and follow Him: yet whatever you do, or whomſoever you will ſerve, this I have determined (as the Servant of the LORD did) that <hi>I and my Houſe will ſerve the LORD GOD onely.</hi>
+               </p>
+               <p>And thus I am clear from the Blood of all Men, having faithfully Declar'd what the LORD hath required of mee; who am a true lover of All, without re<g ref="char:EOLhyphen"/>ſpect of Perſon, becauſe I am at perfect peace with the LORD.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="prophecy">
+            <pb n="14" facs="tcp:98729:8"/>
+            <head>Glad Tydings of great Joy is ſent abroad to all you who have kept the Faith, and not loved your lives unto death.</head>
+            <p>THe SEED is Raiſed, the CHILD is Born, wee have ſeen His ap<g ref="char:EOLhyphen"/>pearance, and are called to worſhip Him in the Spirit and in the Truth, and cannot but rejoyce with an exceeding great Joy; for the Deaf hear, the Dumb ſpeak, the Lame walk, and to the Poor the Go<g ref="char:EOLhyphen"/>ſpel is Preached: Bleſſed are they that can receive it: But now do the wiſe Men ſeek to deſtroy the young Child's life, though with fair pre<g ref="char:EOLhyphen"/>tences, that They alſo would worſhip Him, yea they are exceeding wrath and would deſtroy, if poſſible, every motion of life that ſprings up purely in every true Thirſter after it; but the Voice is heard, <hi>This is My Beloved Son, hear ye Him;</hi> Glory is given to the LORD on High, and good-will is offered unto Men. Behold! this Manifeſtation is appoin<g ref="char:EOLhyphen"/>ted for the Fall and Riſing again of many in this day, and for a Sign which ſhall be ſpoken againſt; But in THEE, in THEE is our Souls delight, who have longed to ſee Thy DAY break forth in its Glory, though many dayes wee have ſuffered with Thee in mourning and weeping, being ready to ſay, <hi>They have take away my LORD, and I know not where they have laid Him;</hi> But now is the Joy received that none can take away. How can wee but call upon all to caſt off what<g ref="char:EOLhyphen"/>ever would hinder, and to wait with all diligence to receive HIM, that none but the pure in heart can ſee, who by His quickening Power hath raiſed the Dead to Life: <hi>Behold, it is come, and it is done, ſaith the LORD GOD, this is the Day whereof I have ſpoken.</hi>
+            </p>
+            <p>
+               <hi>Here is the Patience of the Saints: Here are They that keep the Commandments of God, and the Faith of JESUS.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
